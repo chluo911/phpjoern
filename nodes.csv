@@ -1,0 +1,2 @@
+id:int	labels:label	type	flags:string_array	lineno:int	code	childnum:int	funcid:int	classname	namespace	endlineno:int	name	doccomment
+0	Filesystem	Directory									"phpMyAdmin-4.7.0-all-languages"	
